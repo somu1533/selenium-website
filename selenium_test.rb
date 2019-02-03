@@ -28,4 +28,4 @@ SubmitButton.click
 puts "Successfully completed the user validation"
 
 #Quitting the browser
-#driver.quit
+driver.quit
